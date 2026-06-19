@@ -1,0 +1,6 @@
+{
+  "name": "BE Messenger",
+  "description": "BE Messenger is a real-time messaging application allowing instant chat, group chats, contacts, online indicator, visual states, and profile settings in a sleek blue Material 3 style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
